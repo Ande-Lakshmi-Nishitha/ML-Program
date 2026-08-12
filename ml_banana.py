@@ -15,7 +15,6 @@ import scipy as sp
 import sklearn
 from sklearn import linear_model
 from sklearn import model_selection
-import keras
 #import qiskit
 import warnings
 
